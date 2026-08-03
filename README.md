@@ -1,1 +1,3 @@
-# 9siliconcs3
+Gabriel Matthew V. Manzano
+9 - Silicon
+Batch 2k30
