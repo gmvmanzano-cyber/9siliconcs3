@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 Byear = int(input("Enter your birth year: "))
 if Byear < 1900:
     print("Invalid Year, it should not be earlier than 1900")
