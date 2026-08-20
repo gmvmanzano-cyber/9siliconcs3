@@ -5,8 +5,8 @@ Gabriel Matthew V. Manzano
 
 Batch 2k30
 
-[Click here to view Q1 Folder](./q1/)
+[##Quarter 1 Folder](./q1/)
 
-[Click here to view ctskillsSiliconManzano.md in q1](./q1/ctskillsSiliconManzano.md)
+[Computational Thinking Exercise 4.2. Activity 1](./q1/ctskillsSiliconManzano.md)
 
-[Click here to view zodiacSiliconManzano.md in q1](./q1/zodiacSiliconManzano.md)
+[Chinese Zodiac Activity](./q1/zodiacSiliconManzano.md)
