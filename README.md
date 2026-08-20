@@ -5,7 +5,7 @@ Gabriel Matthew V. Manzano
 
 Batch 2k30
 
-##[Quarter 1 Folder](./q1/)
+[Quarter 1 Folder](./q1/)
 
 [Computational Thinking Exercise 4.2. Activity 1](./q1/ctskillsSiliconManzano.md)
 
