@@ -1,8 +1,11 @@
 # Computational Thinking Exercise
 ## [Smart School Canteen Queue]
 **Name:** Gabriel Matthew V. Manzano
+
 **Section:** 9-Silicon
+
 **Last Name:** Manzano
+
 **Date:** August 20, 2026
 ---
 
