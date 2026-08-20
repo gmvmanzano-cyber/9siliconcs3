@@ -32,8 +32,13 @@ The problem is that the serving system of the canteen takes too long, causing cr
 Write the sub-problem you selected.
 ### Pseudocode
 START
+
     frequent _items = FIND_MOST_POPULAR_ITEMS()
+    
     CREATE “Combo A” USING frequent_items(Top 1 and 2)
+    
     CREATE “Combo B” USING frequent_items(Top 3 and 4)
+    
     DISPLAY “Combo A and B” AT MENU BOARD
+    
 END
