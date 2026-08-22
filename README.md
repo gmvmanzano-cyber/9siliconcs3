@@ -1,9 +1,5 @@
 # Computer Science 3
-**Name:** Gabriel Matthew V. Manzano
-
-**Section:** 9 - Silicon
-
-**Batch:** 2k30
+**Name:** Gabriel Matthew V. Manzano    **Section:** 9 - Silicon    **Batch:** 2k30
 
 [Quarter 1 Folder](./q1/)
 
