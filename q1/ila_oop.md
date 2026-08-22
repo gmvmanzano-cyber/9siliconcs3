@@ -14,3 +14,5 @@ Inheritance allows the system to create a general base class and then derive spe
 ### 4. Polymorphism
 Polymorphism enables different product types to execute their own specific behavior using a shared method name. For example, both a RegularProduct and a PerishableProduct can share a method named get_total_cost(quantity). However, the perishable item can override the method to automatically apply a discount if the item is near expiration. The main program can call get_total_cost() on any item in inventory without relying on repetitive conditional checks for product categories.
 
+## Reflection
+Among the four pillars, Encapsulation is the most vital for improving a sari-sari store inventory system. Since inventory management relies entirely on accurate numerical data, allowing unrestricted access to variables can easily lead to logic errors such as negative stock balances. Encapsulation ensures that all stock updates pass through controlled methods with proper validation checks, maintaining data accuracy as the application scales.
