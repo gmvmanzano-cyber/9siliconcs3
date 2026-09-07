@@ -19,7 +19,7 @@
 |previous() |Skips backward 5 seconds into the song|
 
 ## Class Diagram
-![Class Diagram](Images/classdiagram.png)!
+![Class Diagram](Images/classDiagram.png)!
 
 ## Design Explanation
 ### I chose this class because ever since I was a kid, me and my whole family always loved music/
