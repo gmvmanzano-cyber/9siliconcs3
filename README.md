@@ -10,3 +10,11 @@
 - [Chinese Zodiac Activity](./q1/zodiacSiliconManzano.md)
 - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 - [OOP Concept](q1/ila_oop.md)
+<details>
+  <summary>Click here to expand the list</summary>
+
+  - First item
+  - Second item
+  - Third item
+
+</details>
