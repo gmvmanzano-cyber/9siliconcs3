@@ -10,5 +10,5 @@
   - [Computational Thinking Exercise 4.2. Activity 1](./q1/ctskillsSiliconManzano.md)
   - [Chinese Zodiac Activity](./q1/zodiacSiliconManzano.md)
   - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
-  - [OOP Concept](q1/ila_oop.md)
+  - [OOP Activity 1](q1/ila_oop.md)
 </details>
