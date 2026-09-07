@@ -3,7 +3,7 @@
 
 ## Previous Design
 Link to my previous activity:
-[classObjectUML.md](\q1\classObjectUML.md)
+[classObjectUML.md](/q1/classObjectUML.md)
 
 
 ## Design Revision
