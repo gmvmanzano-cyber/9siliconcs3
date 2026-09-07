@@ -20,7 +20,7 @@ No major changes were applied. The properties and core mechanisms were retained,
 |current_position|integer|private|Hidden to ensure track position can only update through official means, such as forwarding or rewinding|
 
 ## Updated UML Class Diagram
-![Class Diagram](/Images/classDiagramSG5.png)
+![Class Diagram](Images/classDiagramSG5.png)
 
 
 ## Python Implementation
