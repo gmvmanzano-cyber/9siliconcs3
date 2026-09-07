@@ -22,6 +22,6 @@
 ![Class Diagram](Images/classDiagram.png)
 
 ## Design Explanation
-### I chose this class because ever since I was a kid, me and my whole family always loved music/
+### I chose this class because ever since I was a kid, me and my whole family always loved music.
 ### The property most important is the title of the song. Without the title of the song, there would be confusion in differentiating two songs of similar or same properties.
 ### Play would be the most important method because you cannot have music unless you play it. Without it, the song would not be able to be play or start.
