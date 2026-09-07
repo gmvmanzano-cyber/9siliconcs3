@@ -1,5 +1,6 @@
-![alt text](image.png)
+![alt text](/q1/Image/zodiacCode.png)
 
-![alt text](image-1.png)
+
+![alt text](/q1/Image/zodiacDebug.png)
 
 [zodiacSiliconManzano.py](/q1/zodiacSiliconManzano.py)

@@ -15,13 +15,16 @@
 |start()|Plays the song |
 |pause() |Pauses or stops the song |
 |continue() |Continues the song if it is paused|
-|forward() |Skips forward 5 seconds into the song|
-|previous() |Skips backward 5 seconds into the song|
+|forward() |Skips forward x amount of seconds into the song|
+|previous() |Skips backward y amount of seconds into the song|
 
 ## Class Diagram
 ![Class Diagram](Images/classDiagram.png)
 
 ## Design Explanation
-### I chose this class because ever since I was a kid, me and my whole family always loved music.
-### The property most important is the title of the song. Without the title of the song, there would be confusion in differentiating two songs of similar or same properties.
-### Play would be the most important method because you cannot have music unless you play it. Without it, the song would not be able to be play or start.
+### Why did you choose this class?
+I chose this class because ever since I was a kid, me and my whole family always loved music.
+### Which property is the most important? Why?
+The property most important is the title of the song. Without the title of the song, there would be confusion in differentiating two songs of similar or same properties.
+### Which method is the most useful? Why?
+Play would be the most important method because you cannot have music unless you play it. Without it, the song would not be able to be play or start.
