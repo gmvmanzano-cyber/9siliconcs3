@@ -12,4 +12,5 @@
   - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
   - [OOP Part 1](q1/classObjectUML.md)
   - [OOP Part 2](q1/classAttributesMethods.md)
+  - [OOP Part 3](q1/classRelationships.md)
 </details>
