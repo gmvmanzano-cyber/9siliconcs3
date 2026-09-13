@@ -3,26 +3,31 @@
 
 
 [Part I - Classes and Objects](classObjectUML.md)
+
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 
 
 ## Existing Class
 Class: Song
+
 Description: Represents a music track.
 
 
 ## New Related Class
 Class: Album
+
 Description: Represents an official music album released by an artist. It is an organization or list of multiple Song classes.
 
 
 ## Association
 Relationship: Album contains a Song
+
 Explanation: It has a direct association because it acts as a container that groups individual songs.
 
 
 ## Multiplicity
 Multiplicity: 1 : many
+
 Explanation: An Album can contain 0 or more Song classes. It is put in a list to allow an album to hold track references, while Song objects can still exist as an independent entity.
 
 
