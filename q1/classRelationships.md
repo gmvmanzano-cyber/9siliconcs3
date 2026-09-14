@@ -57,3 +57,6 @@ I implemented the relationship by making a private list called self.songs = [] i
 Storing an object reference ensures consistent data and can allow functional interaction between objects. If only string values like song titles were appended, the Album wouldn't be able to execture methods on the original songs. Using references allows the Album to directly call methods on live objects. 
 ### If your relationship uses many, why is a list appropriate?
 A python list is appropriate because it is dynamic and can handle multiple items. Lists can preserve track sequence, which reflects how an album can play tracks in order. Additionally, a list cab iterate through each Song using loops to calculate totals and display metadata.
+
+### LLM Prompt Used
+![alt text](Images/Prompt.png)
