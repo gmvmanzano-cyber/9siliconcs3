@@ -13,4 +13,5 @@
   - [OOP Part 1](q1/classObjectUML.md)
   - [OOP Part 2](q1/classAttributesMethods.md)
   - [OOP Part 3](q1/classRelationships.md)
+  - [OOP Part 4](q1/advancedRelationships.md)
 </details>
