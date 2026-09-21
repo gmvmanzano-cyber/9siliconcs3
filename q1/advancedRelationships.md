@@ -8,11 +8,10 @@
 
 
 ## Existing System Description:
-1. What classes currently exist in your system?
-
+###1. What classes currently exist in your system?
 Class 1: Song       Class 2: Album
 
-2. What problem or limitation exists in your current design?
+###2. What problem or limitation exists in your current design?
 
 From what I reviewed, I found no error in my class's code and/or structure.
 
