@@ -27,7 +27,7 @@ Explanation: A Song IS-A Audio_track. Audio_track can provide the properties and
 
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](Images/inheritanceDiagram.png)
 
 
 ## Composition/Aggregation
@@ -38,7 +38,7 @@ Explanation: An Album aggregates Song objects (amounts to). This has a weak relt
 
 
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](Images/advancedClassDiagram.png)
 
 
 ## Python Implementation
@@ -46,11 +46,11 @@ Explanation: An Album aggregates Song objects (amounts to). This has a weak relt
 
 
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](Images/advancedTestRun.png)
 
 
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](Images/advancedObjectDiagram.png)
 
 ## Reflection
 Answers:
