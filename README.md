@@ -20,5 +20,5 @@
 <details>
   <summary>Click here to expand the list</summary>
 
-  - 
+  - [SG 8 – Encapsulation](q2/sg8_encapsulation.py)
 </details>
