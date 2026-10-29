@@ -20,6 +20,7 @@
 <details>
   <summary>Click here to expand the list</summary>
 
-  - [SG 8 – Encapsulation](q2/sg8_encapsulation.py)
-  - [SG 9 - Inheritance](q2/sg9_inheritance.py)
+  - [SG 8 – Encapsulation_Activity 3](q2/sg8_encapsulation.py)
+  - [SG 9 - Inheritance_Formative Assessment 1](q2/sg9_inheritance.py)
+  - [SG 10 - Overriding_Activity 1 "Zoo Management System](q2/sg10_overriding.py)
 </details>
