@@ -5,7 +5,8 @@
         - The car class needs to implement minimum required attributes and methods needed by the loop. Renaming horn to speak and having the alive attribute is needed so it could not hit the AttributeError.
 
 2. Create the [Python code](sg11_activity2.py) that:
-    a. Creates three classes: Car, Boat, and Drone with a method move(). move() in the Car class prints "The car drives on the road." move() in the Boat class prints "The boat sails on water." move() in the Drone class prints "The drone flies in the sky."
+
+   a. Creates three classes: Car, Boat, and Drone with a method move(). move() in the Car class prints "The car drives on the road." move() in the Boat class prints "The boat sails on water." move() in the Drone class prints "The drone flies in the sky."
 
     b. Has a function named start_trip(vehicle), with a parameter vehicle, that simply calls themove() method: vehicle.move().
 
@@ -13,5 +14,5 @@
     
     d. Calls the start_trip() method for each object.
 
-3. How does the code in 2.2 demonstrate polymorphism?
+4. How does the code in 2.2 demonstrate polymorphism?
     - The code demonstrates polymorphism in the sense of duck typing. This is because the start_trip() function operates differing objects through a shared way (move()). It does this without requiring them to inherit it from parent class.
