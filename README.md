@@ -23,4 +23,6 @@
   - [SG 8 – Encapsulation_Activity 3](q2/sg8_encapsulation.py)
   - [SG 9 - Inheritance_Formative Assessment 1](q2/sg9_inheritance.py)
   - [SG 10 - Overriding_Activity 1 "Zoo Management System"](q2/sg10_overriding.py)
+  - [SG 11 - Polymorphism_Activity 1 "Enhanced Hospital Billing System"](q2 sg11_activity1.py)
+  - [SG 11 - Polymorphism_Activity 2](q2 sg11_activity2.md)
 </details>
