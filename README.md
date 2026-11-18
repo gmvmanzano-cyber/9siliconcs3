@@ -2,6 +2,7 @@
 ## **Name:** Gabriel Matthew V. Manzano
 ### **Section:** 9 - Silicon    
 ### **Batch:** 2k30
+### **Email:** gmvmanzano@brc.pshs.edu.ph
 
 ## [Quarter 1 Folder](./q1/)
 <details>
