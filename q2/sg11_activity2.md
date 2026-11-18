@@ -1,10 +1,11 @@
 1. Answer the following questions:
+   
     a. What is duck typing, as explained in the video?
         - Duck typing is a form of polymorphism without inheritance from class. It  is defined as objects can be treated a specific type as long as they possess the required attributes and methods called. It comes from the phrase "If it looks like a duck, quacks like a duck, it must be a duck."
     b. What did the Car class need to have so it could work inside the same loop as Dog and Cat, even if it does not inherit from the Animal class?
         - The car class needs to implement minimum required attributes and methods needed by the loop. Renaming horn to speak and having the alive attribute is needed so it could not hit the AttributeError.
 
-2. Create the [Python code](sg11_activity2.py) that:
+3. Create the [Python code](sg11_activity2.py) that:
 
    a. Creates three classes: Car, Boat, and Drone with a method move(). move() in the Car class prints "The car drives on the road." move() in the Boat class prints "The boat sails on water." move() in the Drone class prints "The drone flies in the sky."
 
